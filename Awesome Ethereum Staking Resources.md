@@ -65,6 +65,7 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 [Client Diversity Matters: Thinking Independently Together](https://www.youtube.com/watch?v=OTqzkQVKuA0&list=PLaM7G4Llrb7zL1YvK2DN4OGT4Kr3fwN__&index=20)
 * [What’s New in Eth2](https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_220826)
 * [Weekinethereum ](https://weekinethereumnews.com/)
+* [Homenode.org - building the best node for home staking](https://homenode.org)
 
 
 
